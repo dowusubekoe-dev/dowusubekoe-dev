@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derekowusubekoe
 - 👀 I’m interested in Cloud Compting, DevOps, Docker and Kubernetes
-- 🌱 I’m currently learning AWS Solutions Architect (SAA-C03)
+- 🌱 I’m currently learning AWS Solutions Architect (SAA-C03) abd building hands-on projects
 - 💞️ I’m looking to collaborate with everyone who has the passion for Cloud computing and DevOps
 - 📫 How to reach me ...
     * LinkedIn [https://www.linkedin.com/in/derekowusubekoe/]
