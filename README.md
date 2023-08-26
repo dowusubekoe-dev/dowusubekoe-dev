@@ -2,9 +2,6 @@
 - 👀 I’m interested in Cloud Computing, DevOps, Docker and Kubernetes
 - 🌱 I’m currently learning AWS Solutions Architect (SAA-C03) and building hands-on projects
 - 💞️ I’m looking to collaborate with everyone who has the passion for Cloud computing and DevOps
-- 📫 How to reach me ...
-    * LinkedIn [https://www.linkedin.com/in/derekowusubekoe/]
-    * Email [dowusubekoe@gmail.com]
 
 <!---
 derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +11,20 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/-Derek%20Owusu%20Bekoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/derekowusubekoe/>)](https://www.linkedin.com/in/derekowusubekoe/>)
 
 [![Gmail Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<dowusubekoe@gmail.com>)](mailto:<dowusubekoe@gmail.com>)
+
+## 🛠️ Technologies:
+
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vagrant](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+![Derek's Github Stats](https://github-readme-stats.vercel.app/api?username=dowusubekoe-dev&count_private=true&show_icons=true&include_all_commits=true)
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowusubekoe-dev)](https://github.com/dowusubekoe-dev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowusubekoe-dev&hide=TeX&layout=compact)
