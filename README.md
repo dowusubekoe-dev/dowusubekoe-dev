@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @derekowusubekoe
 - 👀 I’m interested in Cloud Computing, DevOps, Docker and Kubernetes
-- 🌱 I’m currently learning AWS Solutions Architect (SAA-C03) and building hands-on projects
-- 💞️ I’m looking to collaborate with everyone who has the passion for Cloud computing and DevOps
+- 🌱 I’m cAWS Solutions Architect (SAA-C03) and Azure certified
+- 👨‍💻  CISM, Sec+, CySA+, and CASP+ certified. ☠💻🔑🛡
+- 💞️ I’m looking to collaborate with everyone who has the passion for Cloud computing and DevOps.
 
 <!---
 derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
