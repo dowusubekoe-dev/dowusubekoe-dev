@@ -24,7 +24,4 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Derek's Github Stats](https://github-readme-stats.vercel.app/api?username=dowusubekoe-dev&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowusubekoe-dev&hide=TeX&layout=compact&show_icons=true&theme=radical)
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=<dowusubekoe-dev>%2F<dowusubekoe-dev>&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=<dowusubekoe-dev>%2F<dowusubekoe-dev>)
