@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derekowusubekoe
 - 👀 I’m interested in Cloud Computing, DevOps, Docker and Kubernetes
-- 🌱 I’m cAWS Solutions Architect (SAA-C03) and Azure certified
+- 🌱 I’m AWS Solutions Architect (SAA-C03) and Azure certified
 - 👨‍💻  CISM, Sec+, CySA+, and CASP+ certified. ☠💻🔑🛡
 - 💞️ I’m looking to collaborate with everyone who has the passion for Cloud computing and DevOps.
 
