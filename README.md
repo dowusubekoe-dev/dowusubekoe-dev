@@ -30,4 +30,15 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=microsoft-azure)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vagrant](https://img.shields.io/badge/Vagrant-%23026AA7.svg?style=flat-square&logo=vagrant&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=<dowusubekoe-dev>%2F<dowusubekoe-dev>&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=<dowusubekoe-dev>%2F<dowusubekoe-dev>)
