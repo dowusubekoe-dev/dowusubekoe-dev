@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Technologies:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=microsoft-azure)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
