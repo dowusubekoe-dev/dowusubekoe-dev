@@ -11,6 +11,18 @@ I’m a passionate and certified expert in Cloud Computing, DevOps, Docker, and 
 📱 Let's connect! You can find me on LinkedIn and GitHub. I look forward to engaging with the vibrant tech community and exploring new opportunities together.
 
 Stay tuned for my latest articles and projects, and let's embark on this exciting journey of technological exploration and innovation!
+
+## Terraform Handson Cloud Projects in AWS
+
+This repository contains Terraform configurations for different AWS projects, showcasing various infrastructure patterns and services.
+
+### Cloud Projects in AWS
+
+#### [Project 0: Connect Windows Machine on AWS From Windows PC](./project-0_connect-to-windows-instance-on-aws-from-windows-pc)
+
+#### [Project 1: Creating Linux Machine On AWS](./project-1_creating-linux-server-on-aws)
+
+#### [Project 2: Automated Cloud Infrastructure Deployment & Monitoring](./project-2_host-a-website-on-ecs-fargate)
 <!---
 derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
