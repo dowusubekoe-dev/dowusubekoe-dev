@@ -27,11 +27,11 @@ This repository contains Terraform configurations for different AWS projects, sh
 derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Social Media Handlers
+#### Social Media Handlers
 [![Linkedin Badge](https://img.shields.io/badge/-Derek%20Owusu%20Bekoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/derekowusubekoe/>)](https://www.linkedin.com/in/derekowusubekoe/>)
 [![Gmail Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<dowusubekoe@gmail.com>)](mailto:<dowusubekoe@gmail.com>)
 
-## 🛠️ Technologies:
+### 🛠️ Technologies:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws)
