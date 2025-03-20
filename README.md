@@ -16,14 +16,6 @@ Stay tuned for my latest articles and projects, and let's embark on this excitin
 
 This repository contains Terraform configurations for different AWS projects, showcasing various infrastructure patterns and services.
 
-#### Cloud Projects in AWS
-
-* [Project 0: Connect Windows Machine on AWS From Windows PC](./amazon-workspace/project-0_connect-to-windows-instance-on-aws-from-windows-pc/)
-
-* [Project 1: Creating Linux Machine On AWS](./amazon-workspace/project-1_creating-linux-server-on-aws/)
-
-* [Project 2: Automated Cloud Infrastructure Deployment & Monitoring](./amazon-workspace/project-2_host-a-website-on-ecs-fargate/)
-
 
 <!---
 derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
