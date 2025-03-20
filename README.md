@@ -12,10 +12,6 @@ I’m a passionate and certified expert in Cloud Computing, DevOps, Docker, and 
 
 Stay tuned for my latest articles and projects, and let's embark on this exciting journey of technological exploration and innovation!
 
-### Cloud Projects
-
-This repository contains Terraform configurations for different AWS projects, showcasing various infrastructure patterns and services.
-
 
 <!---
 derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
