@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 #### Social Media Handlers
 [![Linkedin Badge](https://img.shields.io/badge/-Derek%20Owusu%20Bekoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/derekowusubekoe/>)](https://www.linkedin.com/in/derekowusubekoe/>)
 [![Gmail Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<dowusubekoe@gmail.com>)](mailto:<dowusubekoe@gmail.com>)
-[![WhatsApp Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-green?style=flat-square&logo=WhatsApp&logoColor=white&link=<https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g>)]([mailto:<dowusubekoe@gmail.com](https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g)>)
+[![WhatsApp Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-ufo-green?style=flat-square&logo=WhatsApp&logoColor=white&link=<https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g>)]([mailto:<dowusubekoe@gmail.com](https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g)>)
 
 ### 🛠️ Technologies:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
