@@ -2,9 +2,9 @@
 
 I’m a passionate and certified expert in Cloud Computing, DevOps, Docker, and Kubernetes. With certifications as an AWS Solutions Architect and Azure, along with my CISM, Sec+, CySA+, and CASP+ credentials, I bring a wealth of knowledge and experience to the tech community.
 
-🌱 My journey in the tech industry is driven by a love for innovation and a desire to empower others through technology. As an avid learner and educator, I specialize in writing insightful articles on Security, Computer Networks, Programming, and Linux, aiming to make complex concepts accessible to everyone.
+🌱 My journey in the tech industry is driven by a love for innovation and a desire to empower others through technology. As an avid learner and educator, I specialize in writing insightful articles on Security, Computer Networks, Programming, and Linux, making complex concepts accessible to everyone.
 
-💼 In addition to my technical pursuits, I run a Freelance Web Development agency, offering top-notch services in Website Design, Logo Design, eCommerce, Digital Marketing, and more. This side hustle allows me to blend creativity with technical expertise, delivering exceptional results for my clients.
+💼 In addition to my technical pursuits, I run a Freelance Web Development agency, offering top-notch services in Website Design, Logo Design, e-commerce, Digital Marketing, and more. This side hustle allows me to blend creativity with technical expertise, delivering exceptional results for my clients.
 
 💞 Collaboration is at the heart of my mission. I’m always eager to connect with like-minded individuals who share a passion for Cloud Computing and DevOps. Whether you're a beginner or an experienced professional, I believe in the power of collective growth and continuous learning.
 
@@ -15,14 +15,15 @@ Stay tuned for my latest articles and projects, and let's embark on this excitin
 
 <!---
 derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
 #### Social Media Handlers
 [![Linkedin Badge](https://img.shields.io/badge/-Derek%20Owusu%20Bekoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/derekowusubekoe/>)](https://www.linkedin.com/in/derekowusubekoe/>)
 [![Gmail Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<dowusubekoe@gmail.com>)](mailto:<dowusubekoe@gmail.com>)
 [![WhatsApp Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-deepgreen?style=flat-square&logo=WhatsApp&logoColor=white&link=<https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g>)]([mailto:<dowusubekoe@gmail.com](https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g)>)
+[![Medium](https://img.shields.io/badge/-dowusubekoe@gmail.com-deepgreen?style=flat-square&logo=Medium&logoColor=white&link=<https://medium.com/@dowusubekoe>)]([mailto:<dowusubekoe@gmail.com](https://medium.com/@dowusubekoe)>)
 
-### 🛠️ Technologies:
+#### 🛠️ Technologies:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws)
