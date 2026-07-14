@@ -2,9 +2,7 @@ Cloud Engineer with 5+ years building and operating AWS and Azure infrastructure
 
 I design, build, and automate cloud infrastructure — provisioning environments with Terraform and CloudFormation, managing configuration at scale with Ansible, and containerizing workloads with Docker and Kubernetes (EKS/ECS). At Veolia North America, I architected CI/CD pipelines via GitHub Actions that cut manual deployment time by 45%, automated patch management across 100+ servers, and built scalable AWS environments using EC2, RDS, S3, IAM, and VPC.
 
-On the Azure side, I've deployed secure hybrid environments for 500+ enterprise users, implemented Azure CLI- and ARM-based provisioning, and enforced policy-as-code and access controls aligned with compliance requirements in both healthcare (HIPAA) and financial services (PCI-DSS) contexts.
-
-Experienced working in compliance-sensitive environments — implementing IAM controls, enforcing security hardening, and maintaining audit-ready documentation — with a genuine interest in applying cloud platform engineering skills to improve healthcare outcomes.
+Experienced working in compliance-sensitive environments — implementing IAM controls, enforcing security hardening across Linux and Windows servers, and maintaining audit-ready documentation aligned with enterprise security standards.
 
 Core stack: AWS · Azure · Terraform · Ansible · Docker · Kubernetes · GitHub Actions · Jenkins · Python · Bash · Linux · IAM · VPC · EC2 · RDS · S3 · EKS/ECS · CloudFormation · ARM Templates · GitLab · Git
 
