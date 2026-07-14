@@ -1,16 +1,14 @@
-👋 Hi, I’m Derek Owusu Bekoe (@derekowusubekoe)
+Cloud Engineer with 5+ years in AWS and Azure and 11 years of infrastructure experience across enterprise, government, and regulated environments. AWS Certified Solutions Architect – Associate. Based in the Greater Tampa Bay Area; security clearance eligible.
 
-I’m a passionate and certified expert in Cloud Computing, DevOps, Docker, and Kubernetes. With certifications as an AWS Solutions Architect and Azure, along with my CISM, Sec+, CySA+, and CASP+ credentials, I bring a wealth of knowledge and experience to the tech community.
+I design, build, and automate cloud infrastructure — provisioning environments with Terraform and CloudFormation, managing configuration at scale with Ansible, and containerizing workloads with Docker and Kubernetes (EKS/ECS). At Veolia North America, I architected CI/CD pipelines via GitHub Actions that cut manual deployment time by 45%, automated patch management across 100+ servers, and built scalable AWS environments using EC2, RDS, S3, IAM, and VPC.
 
-🌱 My journey in the tech industry is driven by a love for innovation and a desire to empower others through technology. As an avid learner and educator, I specialize in writing insightful articles on Security, Computer Networks, Programming, and Linux, making complex concepts accessible to everyone.
+On the Azure side, I've deployed secure hybrid environments for 500+ enterprise users, implemented Azure CLI- and ARM-based provisioning, and enforced policy-as-code and access controls aligned with compliance requirements in both healthcare (HIPAA) and financial services (PCI-DSS) contexts.
 
-💼 In addition to my technical pursuits, I run a Freelance Web Development agency, offering top-notch services in Website Design, Logo Design, e-commerce, Digital Marketing, and more. This side hustle allows me to blend creativity with technical expertise, delivering exceptional results for my clients.
+Experienced working in compliance-sensitive environments — implementing IAM controls, enforcing security hardening, and maintaining audit-ready documentation — with a genuine interest in applying cloud platform engineering skills to improve healthcare outcomes.
 
-💞 Collaboration is at the heart of my mission. I’m always eager to connect with like-minded individuals who share a passion for Cloud Computing and DevOps. Whether you're a beginner or an experienced professional, I believe in the power of collective growth and continuous learning.
+Core stack: AWS · Azure · Terraform · Ansible · Docker · Kubernetes · GitHub Actions · Jenkins · Python · Bash · Linux · IAM · VPC · EC2 · RDS · S3 · EKS/ECS · CloudFormation · ARM Templates · GitLab · Git
 
-📱 Let's connect! You can find me on LinkedIn and GitHub. I look forward to engaging with the vibrant tech community and exploring new opportunities together.
-
-Stay tuned for my latest articles and projects, and let's embark on this exciting journey of technological exploration and innovation!
+I'm motivated by building reliable, secure platform infrastructure that engineering teams can depend on — and by using automation to eliminate the manual toil that slows delivery. Open to Cloud Engineer and Cloud Platform roles in Tampa Bay and remote-first environments.
 
 
 <!---
