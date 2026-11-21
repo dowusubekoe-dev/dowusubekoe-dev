@@ -10,18 +10,24 @@ Certifications: previously held CompTIA Security+ CE, CompTIA CySA+, AWS Certifi
 
 Current project: a 30-day, build-first cloud lab program, with working infrastructure, scripts, notes, and console evidence published here: https://github.com/dowusubekoe-dev/cloud-engineer-30-day-program
 
+#### Writing: Rebuilding in Public
+I am documenting the lab program in a weekly series on Medium, with a shorter post on LinkedIn for each article.
+
+- Week 1, Days 1 to 4 (November 21, 2026): [Medium](https://medium.com/@dowusubekoe/rebuilding-in-public-a-30-day-cloud-engineer-lab-days-1-to-4-a0dedb2cd20e) | [LinkedIn](https://lnkd.in/p/gPRCWz77)
+- Published posts are archived in this repository: Medium in medium-publisher/, LinkedIn in linkedin-publisher/.
+
 Based in Spring Hill, Florida. Open to remote Cloud Engineer roles across the United States. U.S. Citizen.
 
 
 <!---
-derekowusubekoe/derekowusubekoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dowusubekoe-dev/dowusubekoe-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
 --->
 #### Social Media Handlers
 [![Linkedin Badge](https://img.shields.io/badge/-Derek%20Owusu%20Bekoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/derekowusubekoe/>)](https://www.linkedin.com/in/derekowusubekoe/>)
 [![Gmail Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<dowusubekoe@gmail.com>)](mailto:<dowusubekoe@gmail.com>)
 [![WhatsApp Badge](https://img.shields.io/badge/-dowusubekoe@gmail.com-deepgreen?style=flat-square&logo=WhatsApp&logoColor=white&link=<https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g>)]([mailto:<dowusubekoe@gmail.com](https://whatsapp.com/channel/0029VbBH39f0VycLl2GDW33g)>)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@dowusubekoe)
 
 #### 🛠️ Technologies:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
