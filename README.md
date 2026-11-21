@@ -1,12 +1,16 @@
-Cloud Engineer with 5+ years building and operating AWS and Azure infrastructure across enterprise, financial services, and regulated environments — plus 11 years in IT infrastructure overall. AWS Certified Solutions Architect – Associate (SAA-C03) and AZ-104: Microsoft Azure Administrator, with AZ-400 in progress. Specializes in Infrastructure as Code (Terraform, CloudFormation), CI/CD pipelines (Azure DevOps, GitHub Actions), configuration management (Ansible), and production reliability. Based in the Greater Tampa Bay Area; open to remote roles.
+I am Derek Owusu Bekoe, a Cloud Engineer with 16+ years in IT and 5+ years in production AWS and Azure environments, transitioned from IT support to Application & Operational Support as an Application Developer with focus on Cloud (AWS and Azure).
 
-I design, build, and automate cloud infrastructure — provisioning environments with Terraform and CloudFormation, managing configuration at scale with Ansible, and containerizing workloads with Docker and Kubernetes (EKS/ECS). At Veolia North America, I architected CI/CD pipelines via GitHub Actions that cut manual deployment time by 45%, automated patch management across 100+ servers, and built scalable AWS environments using EC2, RDS, S3, IAM, and VPC.
+At Veolia, I administered and secured the applications a utility's revenue runs on, metering, billing, and workforce systems holding customer account data, across 10+ servers, using least-privilege IAM and role-based access aligned to security policy. I built and maintained AWS infrastructure with Terraform, CloudFormation, and Ansible; supported Level 3 incidents with root-cause analysis through extensive log review; and documented runbooks and standards for a globally distributed team.
 
-Experienced working in compliance-sensitive environments — implementing IAM controls, enforcing security hardening across Linux and Windows servers, and maintaining audit-ready documentation aligned with enterprise security standards.
+Core skills: AWS (EC2, VPC, IAM, S3, RDS, CloudWatch, GuardDuty, AWS Config, Inspector), Azure (VMs, VNets, Entra ID, ARM templates, Azure Monitor), Terraform, CloudFormation, Ansible, GitLab CI/CD and GitHub Actions, Python, Bash, and PowerShell. Linux has been my primary working environment since 2010.
 
-Core stack: AWS · Azure · Terraform · Ansible · Docker · Kubernetes · GitHub Actions · Jenkins · Python · Bash · Linux · IAM · VPC · EC2 · RDS · S3 · EKS/ECS · CloudFormation · ARM Templates · GitLab · Git
+Education: M.S., Network Management, Colorado Technical University (2015). B.S., Computer Science, University of Education, Winneba, Ghana (2010).
 
-I'm motivated by building reliable, secure platform infrastructure that engineering teams can depend on — and by using automation to eliminate the manual toil that slows delivery. Open to Cloud Engineer and Cloud Platform roles in Tampa Bay and remote-first environments.
+Certifications: previously held CompTIA Security+ CE, CompTIA CySA+, AWS Certified Solutions Architect Associate, and Azure Administrator Associate (AZ-104), all expired between 2024 and 2025. Currently preparing for CompTIA Security+ (SY0-701), exam planned for January 2027.
+
+Current project: a 30-day, build-first cloud lab program, with working infrastructure, scripts, notes, and console evidence published here: https://github.com/dowusubekoe-dev/cloud-engineer-30-day-program
+
+Based in Spring Hill, Florida. Open to remote Cloud Engineer roles across the United States. U.S. Citizen.
 
 
 <!---
